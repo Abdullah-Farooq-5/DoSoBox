@@ -1,6 +1,5 @@
 # DosoBox - Movie Database & Review Platform
 
-![DosoBox Logo](https://via.placeholder.com/200x80?text=DosoBox)
 
 DosoBox is a modern movie database and review platform built with React, Vite, and Material UI. It allows users to browse trending and popular movies, search for specific titles, view detailed information about movies, and more.
 
